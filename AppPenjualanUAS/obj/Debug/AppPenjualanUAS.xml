@@ -1,0 +1,152 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppPenjualanUAS
+</name>
+</assembly>
+<members>
+<member name="T:AppPenjualanUAS.DataSetPenjualan.PenjualanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPenjualan.PenjualanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPenjualan.PenjualanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPenjualan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPenjualanTableAdapters.PenjualanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPenjualanTableAdapters.TableAdapterManager.UpdateUpdatedRows(AppPenjualanUAS.DataSetPenjualan,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPenjualanTableAdapters.TableAdapterManager.UpdateInsertedRows(AppPenjualanUAS.DataSetPenjualan,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPenjualanTableAdapters.TableAdapterManager.UpdateDeletedRows(AppPenjualanUAS.DataSetPenjualan,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPenjualanTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPenjualanTableAdapters.TableAdapterManager.UpdateAll(AppPenjualanUAS.DataSetPenjualan)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPenjualanTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPenjualanTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPenjualanTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPembelian.PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPembelian.PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPembelian.PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPembelian">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPembelianTableAdapters.PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPembelianTableAdapters.TableAdapterManager.UpdateUpdatedRows(AppPenjualanUAS.DataSetPembelian,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPembelianTableAdapters.TableAdapterManager.UpdateInsertedRows(AppPenjualanUAS.DataSetPembelian,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPembelianTableAdapters.TableAdapterManager.UpdateDeletedRows(AppPenjualanUAS.DataSetPembelian,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPembelianTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AppPenjualanUAS.DataSetPembelianTableAdapters.TableAdapterManager.UpdateAll(AppPenjualanUAS.DataSetPembelian)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPembelianTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPembelianTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AppPenjualanUAS.DataSetPembelianTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AppPenjualanUAS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AppPenjualanUAS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AppPenjualanUAS.My.Resources.Resources.breng_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanUAS.My.Resources.Resources.laporan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanUAS.My.Resources.Resources.login_cilik">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanUAS.My.Resources.Resources.master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanUAS.My.Resources.Resources.menu_utama_revisi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanUAS.My.Resources.Resources.transaksi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AppPenjualanUAS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

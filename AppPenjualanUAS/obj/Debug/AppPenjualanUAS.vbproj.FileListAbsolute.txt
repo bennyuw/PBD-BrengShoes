@@ -1,0 +1,101 @@
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.exe.config
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.exe
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.pdb
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.xml
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLogin.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormMenuUtama.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.Resources.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbproj.GenerateResource.Cache
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.exe
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.xml
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.pdb
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormBarang.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormSupplier.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormKaryawan.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormKonsumen.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.exe.config
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.exe
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.xml
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.pdb
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.exe
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.pdb
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.xml
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormKaryawan.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormKonsumen.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormPenjualan.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormSupplier.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormBarang.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLogin.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormMenuUtama.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.Resources.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbproj.GenerateResource.Cache
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormGantiPassword.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormPembelian.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbprojResolveAssemblyReference.cache
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLaporanPembelian.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLaporanPenjualan.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbprojResolveAssemblyReference.cache
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormGantiPassword.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLaporanPembelian.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLaporanPenjualan.resources
+C:\Users\wahyuyuwono\documents\visual studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\RdlCompile.cache
+C:\Users\wahyuyuwono\documents\visual studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\RdlCompile.compiled
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormPembelian.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormPenjualan.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.exe.config
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.exe
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.xml
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.pdb
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.exe
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.pdb
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.xml
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbprojResolveAssemblyReference.cache
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormGantiPassword.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormKaryawan.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormKonsumen.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLaporanPembelian.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLaporanPenjualan.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormSupplier.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormBarang.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLogin.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormMenuUtama.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.Resources.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormPembelian.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormPenjualan.resources
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbproj.GenerateResource.Cache
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\RdlCompile.cache
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\obj\Debug\RdlCompile.compiled
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\SEMESTER 3\PEMROGRAMAN BASIS DATA 17.1\UAS\REVISI FIXX\AppPenjualanUAS\AppPenjualanUAS\AppPenjualanUAS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.exe.config
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.exe
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.xml
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.pdb
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbprojResolveAssemblyReference.cache
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormGantiPassword.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormKaryawan.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormKonsumen.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLaporanPembelian.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLaporanPenjualan.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormSupplier.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormBarang.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormLogin.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormMenuUtama.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.Resources.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormPembelian.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.FormPenjualan.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbproj.GenerateResource.Cache
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\RdlCompile.cache
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\RdlCompile.compiled
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.exe
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.pdb
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\bin\Debug\AppPenjualanUAS.xml
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.LaporanMingguanPenjualan.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.vbproj.ResolveComReference.cache
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.LaporanMingguanPembelian.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.BulananPenjualan.resources
+C:\Users\wahyuyuwono\Documents\Visual Studio 2012\Projects\AppPenjualanUASFIXX\AppPenjualanUAS\obj\Debug\AppPenjualanUAS.BulananPembelian.resources
